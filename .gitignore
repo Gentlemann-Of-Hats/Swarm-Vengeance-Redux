@@ -1,0 +1,23 @@
+# Build and Output directories
+bin/
+obj/
+
+# Local reference assemblies
+ref/
+
+# User & environment files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.env
+githubkey.env
+
+# IDE directories
+.vs/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
