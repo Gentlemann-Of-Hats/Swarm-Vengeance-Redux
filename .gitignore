@@ -13,6 +13,13 @@ ref/
 *.env
 githubkey.env
 
+# AI rules & scratch notes
+AI_RULES.json
+AI_NOTES.md
+objectives.md
+AI_*.json
+AI_*.md
+
 # IDE directories
 .vs/
 .vscode/
