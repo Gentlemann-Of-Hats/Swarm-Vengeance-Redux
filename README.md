@@ -2,6 +2,8 @@
 
 A modern revival and comprehensive fix for the ancient *Risk of Rain 2* Doppelganger (Umbra) bugs when playing with **Artifact of Vengeance** and **Artifact of Swarms**.
 
+> This mod is a modern continuation and revival of the original [VengeanceSwarmFix](https://old.thunderstore.io/package/Melting-Cube/VengeanceSwarmFix/) by Melting-Cube, modernized for the current version of Risk of Rain 2 with skin synchronization, Risk of Options support, and high population spawn protection.
+
 ---
 
 ## ⚔️ Key Features & Fixes
@@ -31,6 +33,13 @@ Settings can be customized in-game via **Risk of Options** or by editing `BepInE
 
 * Install using **r2modman** or your favorite mod manager.
 * For manual installation, extract `VenganceSwarmRedux.dll` into your `Risk of Rain 2/BepInEx/plugins/` directory.
+
+---
+
+## 📜 Credits & Attribution
+
+* Original mod and concept by **Melting-Cube** ([VengeanceSwarmFix](https://old.thunderstore.io/package/Melting-Cube/VengeanceSwarmFix/)).
+* Revived, modernized, and maintained by **Gentlemann-Of-Hats**.
 
 ---
 
